@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb4acf30.chunk.css",
+    "main.js": "/static/js/main.fd511801.chunk.js",
+    "main.js.map": "/static/js/main.fd511801.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c57c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c57c5a0.js.map",
+    "static/js/2.95ce7107.chunk.js": "/static/js/2.95ce7107.chunk.js",
+    "static/js/2.95ce7107.chunk.js.map": "/static/js/2.95ce7107.chunk.js.map",
+    "static/js/3.b5b62272.chunk.js": "/static/js/3.b5b62272.chunk.js",
+    "static/js/3.b5b62272.chunk.js.map": "/static/js/3.b5b62272.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bb4acf30.chunk.css.map": "/static/css/main.bb4acf30.chunk.css.map",
+    "static/js/2.95ce7107.chunk.js.LICENSE.txt": "/static/js/2.95ce7107.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/background.0b7f4720.gif",
+    "static/media/pcc.424d5a9b.png": "/static/media/pcc.424d5a9b.png",
+    "static/media/tokenomics_back.441e8152.png": "/static/media/tokenomics_back.441e8152.png",
+    "static/media/why-us.0b38b56d.png": "/static/media/why-us.0b38b56d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c57c5a0.js",
+    "static/js/2.95ce7107.chunk.js",
+    "static/css/main.bb4acf30.chunk.css",
+    "static/js/main.fd511801.chunk.js"
+  ]
+}
